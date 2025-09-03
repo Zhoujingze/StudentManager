@@ -1,0 +1,2 @@
+# StudentManager
+这是一个基于Flask框架开发的学生信息管理系统，包含学生信息的增删改查功能，使用Bootstrap和jQuery DataTables实现前端界面。
